@@ -7,5 +7,4 @@ This resource lets your create an unlimited number of books in your server, that
 - Runs at 0.0ms at all times.
 - Determine the prop the ped holding while reading.
 
-## Gigachad Money Maker Discord:
-[Discord](https://discord.gg/vrVYx6tce5)
+## ESX Converted
