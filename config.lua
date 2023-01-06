@@ -1,8 +1,6 @@
 Config = {}
 
-Config.Core = "QBCore"
-Config.OldQBCore = false
-Config.CoreFolderName = "qb-core" 
+Config.CoreFolderName = "es_extended" 
 
 --If source is 'web', then pageName should be the entire URL of the image 
 --path. ex, https://upload.wikimedia.org/wikipedia/commons/b/b5/800x600_Wallpaper_Blue_Sky.png
